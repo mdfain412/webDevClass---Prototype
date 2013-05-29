@@ -352,7 +352,7 @@ FOOTER SECTION
 	width:100%;
 	position:fixed; 
 	z-index:10; 
-	background: #9CCBAF;
+	background: rgba(156, 203, 175, 0.6);
 	height: 30px;
 	padding-top: .5em;
 }
